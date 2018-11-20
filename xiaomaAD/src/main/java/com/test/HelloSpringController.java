@@ -19,4 +19,7 @@ public class HelloSpringController {
         mv.addObject("name", name);
         return mv;
     }
+    public static void main(String[] args) {
+		
+	}
 }
