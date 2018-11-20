@@ -21,5 +21,6 @@ public class HelloSpringController {
     }
     public static void main(String[] args) {
 //		System.out.println("ssssssssss");
+    	System.out.println("测试第一次初始化提交");
 	}
 }
