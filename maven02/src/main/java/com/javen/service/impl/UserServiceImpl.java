@@ -12,7 +12,6 @@ import com.javen.service.IUserService;
 
 @Service
 public class UserServiceImpl implements IUserService{
-	
 	@Autowired
 	private IUserDao userDao;
 	
